@@ -13,3 +13,7 @@ download archive of your os and extract it in /usr/bin/ or /usr/local/bin/
 RUN:
 * python instabot.py
 * python3 instabot.py
+
+
+![](https://github.com/wxkz/instabot/blob/master/README/follow.gif)
+![](https://github.com/wxkz/instabot/blob/master/README/like.gif)
