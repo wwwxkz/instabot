@@ -15,5 +15,5 @@ RUN:
 * python3 instabot.py
 
 
-![](https://github.com/wxkz/instabot/blob/master/README/follow.gif)
-![](https://github.com/wxkz/instabot/blob/master/README/like.gif)
+![](https://github.com/wwwxkz/instabot/blob/master/README/follow.gif)
+![](https://github.com/wwwxkz/instabot/blob/master/README/like.gif)
